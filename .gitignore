@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+
+
+
+# Embedded compiler overhead
+/lpc1769/.metadata
+/lpc1769/blink/Debug
